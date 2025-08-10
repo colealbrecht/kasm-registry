@@ -6,7 +6,7 @@ const nextConfig = {
   env: {
     name: 'AlbTech',
     description: 'The official store for AlbTech supported workspaces.',
-    icon: '/img/logo.svg',
+    icon: 'https://colealbrecht.github.io/kasm-registry/1.1/noBackground.svg',
     listUrl: 'https://colealbrecht.github.io/kasm-registry/',
     contactUrl: 'https://github.com/colealbrecht/kasm-registry/issues',
   },
