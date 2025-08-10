@@ -7,11 +7,11 @@ const nextConfig = {
     name: 'AlbTech',
     description: 'The official store for AlbTech supported workspaces.',
     icon: '/img/logo.svg',
-    listUrl: 'https://registry.kasmweb.com/',
+    listUrl: 'https://colealbrecht.github.io/kasm-registry/',
     contactUrl: 'https://github.com/colealbrecht/kasm-registry/issues',
   },
   reactStrictMode: true,
-  basePath: '/kasm-registry/1.0',
+  basePath: '/kasm-registry/1.1',
   trailingSlash: true,
   images: {
     unoptimized: true,
